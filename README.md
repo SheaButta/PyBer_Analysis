@@ -4,9 +4,9 @@
 
 ### Purpose
 A company named "V. Isualize" has asked for my assistance in analyzing some data related to specific city types and their 
-related cities.  V. Isualize has provided identified the spefic data point they would like analyzed.  These metrics are 
-identified below.  The standard data analysis principles were used which includes; (1) Determine the number of rows and 
-columns; (2) Data types used; and (3) Is the data readable?
+related cities.  V. Isualize has provided the specific data points to be analyzed.  These metrics are identified below.  
+The standard data analysis principles were used which includes; (1) Determine the number of rows and columns; 
+(2) Data types used; and (3) Is the data readable?
 
 V. Isualize required Metrics:
 
