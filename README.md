@@ -38,10 +38,6 @@ Ride Dataset: [Ride Data](https://github.com/SheaButta/PyBer_Analysis/blob/main/
     - There are 2375 rows.
     - There are no empty rows.
 
-  - Please see the below chart to understand why a specific chart was chosen vs another:
-
-  ![Why this chart?](https://github.com/SheaButta/PyBer_Analysis/blob/main/Resources/Chart_Selector_Guidance.png)
-
 ## Results
 
 The below bullets will describe the analysis results for V. Isualize. 
