@@ -12,11 +12,10 @@ V. Isualize required Metrics:
 
 - The total number of rides for each city type is retrieved.
 - The total number of drivers for each city type is retrieved. 
-- ​The sum of the fares for each city type is retrieved.
-- ​The average fare per ride for each city type is calculated.
+- The sum of the fares for each city type is retrieved.
+- The average fare per ride for each city type is calculated.
 - The average fare per driver for each city type is calculated.
-- A PyBer summary DataFrame is created.
-- The PyBer summary DataFrame is formatted as shown in the example.
+- A PyBer summary report
 
 ## Resources
 City Dataset: [City Data](https://github.com/SheaButta/PyBer_Analysis/blob/main/Resources/city_data.csv)
