@@ -42,31 +42,31 @@ Ride Dataset: [Ride Data](https://github.com/SheaButta/PyBer_Analysis/blob/main/
 
 The below bullets will describe the analysis results for V. Isualize. 
 
-  - The total number of rides for each city type is retrieved.
-  	- This analysis reveled that "Rural" cities consists of 125 rides; while "Surburban" cities sit at 625 and "Urban" cities sitting
-	  sitting at the top with 1625 rides.  The "Rural" cities are behind more that three times (3x's) when it comes
-	  to total rides of all three city types.
+  - Total number of rides for each city type is retrieved.
+  	- This analysis reveled that "Rural" cities consists of 125 rides; while "Surburban" and "Urban" cities sit at 625 and 1625 rides.  
+  	  The "Rural" cities are behind more that three times (3x's) when it comes to total rides of all three city types.
 
 		Total Rides Per City: 
 	
 		![Rides per City](https://github.com/SheaButta/PyBer_Analysis/blob/main/Resources/TotalNumOfRides_perCity.PNG)
 
-  - The total number of drivers for each city type is retrieved.
+  - Total number of drivers for each city type is retrieved.
   	- "Rural" cities only have 78 drivers while "Surburban" and "Urban" cities sit at 490 and 2,405 drivers.  Having the least number of	
-	  drivers seems to reveal why "Rural" cities have he least number of rides.
+	  drivers seems to reveal why "Rural" cities have he least number of rides; but, the popuplation size in these "Rural" cites could be
+	  a factor as well.
 
-  - The sum of the fares for each city type is retrieved.
+  - Sum of the fares for each city type is retrieved.
   	- The first two results would seem to suggest that the "Total Fares" in "Rural" cities will be lower than "Suburban" and "Urban" cites.
-	  The total fares analysis for each city type tallied "Rural" cities at $4,327.93, "Suburban" cities at $19,356.33 and "Urban" cities
+	  The total fares for each city type tallied "Rural" cities at $4,327.93, "Suburban" cities at $19,356.33 and "Urban" cities
 	  at #39,854.38.
 
-  - The average fare per ride for each city type is calculated.
+  - Average fare per ride for each city type is calculated.
   	- All previous results would seem to also suggest the "Average Fares" in "Rural" cities will be lower than "Suburban" and "Urban" cites;
 	  however, that's not the case.  Since the riders in "Rural" cities are not close to major cities, they may have to pay more due to the 
 	  distance between their destinations.  The average fare ride in "Rural" cities is $34.62, while "Suburban" and "Urban" cities sit at 
 	  $30.97 and $24.53.
 
-  - The average fare per driver for each city type is calculated.
+  - Average fare per driver for each city type is calculated.
   	- The "Average Fare per driver" in "Rural" cities is $55.49; $39.50 in "Suburban" cities and $16.57 in "Urban" cities.  These averages
 	  indicate that it's costly to ride in "Rural" areas; most likely, because of the distance between a rider's start location and destination
 	  location.
