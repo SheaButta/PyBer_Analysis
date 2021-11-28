@@ -75,7 +75,7 @@ The below bullets will describe the analysis results for V. Isualize.
 
   PyBer Summary: 
 
-  ![Rides per City](https://github.com/SheaButta/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png)
+  ![Rides per City](https://github.com/SheaButta/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
 
