@@ -40,8 +40,8 @@ Ride Dataset: [Ride Data](https://github.com/SheaButta/PyBer_Analysis/blob/main/
 The below bullets will describe the analysis results for V. Isualize. 
 
   - Total number of rides for each city type is retrieved.
-  	- This analysis reveled that "Rural" cities consists of 125 rides; while "Surburban" and "Urban" cities sit at 625 and 1625 rides.  
-  	  The "Rural" cities are behind more that three times (3x's) when it comes to total rides of all three city types.
+  	- This analysis reveled that "Rural" cities consists of 125 rides; while "Surburban" and "Urban" cities sit at 625 and 1625 rides.  The "Rural" cities are 
+  	  behind more that three times (3x's) when it comes to total rides of all three city types.
 
 		Total Rides Per City: 
 	
