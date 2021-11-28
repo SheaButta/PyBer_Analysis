@@ -79,7 +79,7 @@ The below bullets will describe the analysis results for V. Isualize.
 
 ## Summary
 
-This analysis for "V. Isualize" has revealed some some disparities between Rural, Suburban and Urban cities. Here are my recommendation
+This analysis for "V. Isualize" has revealed some disparities between Rural, Suburban and Urban cities. Here are my recommendation
 based on these disparities;
 
 	1. Review the population in the "Rural" and "Suburban areas to determine if additional drivers would increase the "Total Rides" 
@@ -87,7 +87,7 @@ based on these disparities;
 
 	2. Review the average salary for "Urban" areas to determine if a fare increase is possible.
 
-	3. Review the weeks where "Rural" area fares are the least.  This may indicate holiday weeks and you may want to increase the
+	3. Review the weeks where "Rural" area fares are the least.  This may indicate holiday weeks in which you may want to increase the
 	   fare on specific days.
 
 
