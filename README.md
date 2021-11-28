@@ -47,7 +47,9 @@ The below bullets will describe the analysis results for V. Isualize.
 	  sitting at the top with 1625 rides.  The "Rural" cities are behind more that three times (3x's) when it comes
 	  to total rides of all three city types.
 
-	Total Rides Per City: ![Rides per City](https://github.com/SheaButta/PyBer_Analysis/blob/main/Resources/TotalNumOfRides_perCity.PNG)
+	Total Rides Per City: 
+	
+	![Rides per City](https://github.com/SheaButta/PyBer_Analysis/blob/main/Resources/TotalNumOfRides_perCity.PNG)
 
   - The total number of drivers for each city type is retrieved.
   	- "Rural" cities only has 78 drivers while "Surburban" and "Urban" cities sit at 490 and 2,405 drivers.  Having the least number of	
